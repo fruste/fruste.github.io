@@ -1,5 +1,5 @@
 var count = localStorage.getItem("count");
-count = 0;
+
 $("#count").text(count);
 
 $("#clickBtn").click(function(){
