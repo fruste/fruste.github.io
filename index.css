@@ -32,12 +32,37 @@ ul {
 }
 .doek {
     border: 0.5em solid black;
-    width: 20%;
     float: left;
     margin-left: 0%;
     height: 6em;
 }
 
-.links {
+.r1 {
     margin-left: 10%;
+    width: 10%;
+}
+
+.r2 {
+    width: 30%;
+}
+
+.r3 {
+    width: 18%;
+}
+
+.r4 {
+    width: 22%;
+}
+
+.c1 {
+    height: 6em;
+}
+
+.c2{
+    height: 10em;
+}
+
+.c3{
+    height: 8em;
+    margin-bottom: 5%;
 }
