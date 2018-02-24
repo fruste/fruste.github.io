@@ -1,0 +1,43 @@
+ul {
+    list-style-type: none;  
+}
+
+#ul_paint {
+    width: 10%;
+}
+
+.paint {
+    border: 2px solid red;
+    margin-top: 1%;
+    width: 40%;
+    margin-left: 1%;
+    height: 2em;
+    cursor: pointer;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#white {
+    background-color: white;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#red {
+    background-color: red;
+}
+.doek {
+    border: 0.5em solid black;
+    width: 20%;
+    float: left;
+    margin-left: 0%;
+    height: 6em;
+}
+
+.links {
+    margin-left: 10%;
+}

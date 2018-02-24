@@ -1,10 +1,10 @@
-var count = localStorage.getItem("count");
-
-$("#count").text(count);
-
-$("#clickBtn").click(function(){
-    count++
-    $("#count").text(count);
-    localStorage.setItem("count", count);
+var color;
+$(".paint").click(function(){
+    color = this.id;
 });
 
+
+$(".doek").click(function(){
+    id = "#"+ this.id;
+    $(id).css("background-color", color);
+});
