@@ -14,6 +14,7 @@ ul {
     margin-left: 1%;
     height: 2em;
     cursor: pointer;
+    
     float:left;
     margin-bottom: 1%;
 }
@@ -34,7 +35,7 @@ ul {
     background-color: red;
 }
 .doek {
-    border: 0.5em solid black;
+    border: 0.2em solid black;
     float: left;
     margin-left: 0%;
     height: 6em;
