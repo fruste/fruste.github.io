@@ -3,16 +3,19 @@ ul {
 }
 
 #ul_paint {
-    width: 10%;
+    width: 100%;
+    margin-bottom: 2%;
 }
 
 .paint {
-    border: 2px solid red;
+    border: 2px solid black;
     margin-top: 1%;
-    width: 40%;
+    width: 22%;
     margin-left: 1%;
     height: 2em;
     cursor: pointer;
+    float:left;
+    margin-bottom: 1%;
 }
 
 #blue {
@@ -38,24 +41,25 @@ ul {
 }
 
 .r1 {
-    margin-left: 10%;
-    width: 10%;
+    margin-left: 25%;
+    width: 17%;
 }
 
 .r2 {
-    width: 30%;
+    width: 8%;
 }
 
 .r3 {
-    width: 18%;
+    width: 15%;
 }
 
 .r4 {
-    width: 22%;
+    width: 10%;
+    margin-right: 25%;
 }
 
 .c1 {
-    height: 6em;
+    height: 10em;
 }
 
 .c2{
@@ -63,6 +67,11 @@ ul {
 }
 
 .c3{
-    height: 8em;
+    height: 5em;
+}
+
+.c4{
+    height: 10em;
     margin-bottom: 5%;
 }
+
